@@ -34,7 +34,7 @@
         "id": 6,
         "titulo" : "Essencialismo: A disciplinada busca por menos",
         "autor" : "Greg Mckeown",
-        "descricao" : "Se você se sente sobrecarregado e ao mesmo tempo subutilizado, ocupado, mas pouco produtivo, e se o seu tempo parece servir apenas aos interesses dos outros, você precisa conhecer o essencialismo. Trata-se de um método para identificar o que é vital e eliminar todo o resto, para que possamos dar a maior contribuição possível àquilo que realmente importa. "
+        "descricao" : "Se você se sente sobrecarregado e ao mesmo tempo subutilizado, ocupado, mas pouco produtivo, e se o seu tempo parece servir apenas aos interesses dos outros, você precisa conhecer o essencialismo. Trata-se de um método para identificar o que é vital e eliminar todo o resto, para que possamos dar a maior contribuição possível àquilo que realmente importa."
         },
                 {
         "id": 7,
@@ -82,7 +82,7 @@
         "id": 14,
         "titulo" : "Arquitetura limpa: O guia do artesão para estrutura e design de software",
         "autor" : "Robert C. Martin",
-        "descricao" : "As regras universais de arquitetura de software aumentam dramaticamente a produtividade dos desenvolvedores ao longo da vida dos sistemas de software. Agora, aproveitando o sucesso dos seus best-sellers "Código Limpo" e "O Codificador Limpo", o lendário artesão de software Robert C. Martin (“Uncle Bob”) vai revelar essas regras e ajudar o leitor a aplicá-las."
+        "descricao" : "As regras universais de arquitetura de software aumentam dramaticamente a produtividade dos desenvolvedores ao longo da vida dos sistemas de software. Agora, aproveitando o sucesso dos seus best-sellers 'Código Limpo' e 'O Codificador Limpo', o lendário artesão de software Robert C. Martin ('Uncle Bob') vai revelar essas regras e ajudar o leitor a aplicá-las."
         },
     {
         "id": 15,
