@@ -4,7 +4,7 @@
         "id": 1,
         "titulo" : "24/7: Capitalismo tardio e os fins do sono",
         "autor" : "Jonathan Crary",
-        "descricao" : "24/7 anuncia um tempo sem tempo, um tempo sem demarcação material ou identificável, um tempo sem sequência nem recorrência”, afirma o autor. A disponibilidade para consumir, trabalhar, compartilhar, responder, 24 horas por dia, 7 dias por semana, parece ser a palavra de ordem da contemporaneidade"
+        "descricao" : "24/7 anuncia um tempo sem tempo, um tempo sem demarcação material ou identificável, um tempo sem sequência nem recorrência, afirma o autor. A disponibilidade para consumir, trabalhar, compartilhar, responder, 24 horas por dia, 7 dias por semana, parece ser a palavra de ordem da contemporaneidade"
         },
         {
         "id": 2,
@@ -64,7 +64,7 @@
         "id": 11,
         "titulo" : "Aprendendo Node: Usando JavaScript no Servidor",
         "autor" : "Shelley Powers",
-        "descricao" : "Aprenda a criar aplicações em rede de alto desempenho e plenamente escalonáveis nesta plataforma baseada em JavaScript. O conteúdo deste livro é bastante prático, “mão na massa”, e fará com que o programador de JavaScript, acostumado a lidar apenas com processamento no navegador, domine com maestria os fundamentos do Node no servidor."
+        "descricao" : "Aprenda a criar aplicações em rede de alto desempenho e plenamente escalonáveis nesta plataforma baseada em JavaScript. O conteúdo deste livro é bastante prático, mão na massa, e fará com que o programador de JavaScript, acostumado a lidar apenas com processamento no navegador, domine com maestria os fundamentos do Node no servidor."
         },
         {
         "id": 12,
@@ -82,7 +82,7 @@
         "id": 14,
         "titulo" : "Arquitetura limpa: O guia do artesão para estrutura e design de software",
         "autor" : "Robert C. Martin",
-        "descricao" : "As regras universais de arquitetura de software aumentam dramaticamente a produtividade dos desenvolvedores ao longo da vida dos sistemas de software. Agora, aproveitando o sucesso dos seus best-sellers 'Código Limpo' e 'O Codificador Limpo', o lendário artesão de software Robert C. Martin ('Uncle Bob') vai revelar essas regras e ajudar o leitor a aplicá-las."
+        "descricao" : "As regras universais de arquitetura de software aumentam dramaticamente a produtividade dos desenvolvedores ao longo da vida dos sistemas de software. Agora, aproveitando o sucesso dos seus best-sellers Código Limpo e O Codificador Limpo, o lendário artesão de software Robert C. Martin (Uncle Bob) vai revelar essas regras e ajudar o leitor a aplicá-las."
         },
         {
         "id": 15,
