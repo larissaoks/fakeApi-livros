@@ -6,89 +6,89 @@
         "autor" : "Jonathan Crary",
         "descricao" : "24/7 anuncia um tempo sem tempo, um tempo sem demarcação material ou identificável, um tempo sem sequência nem recorrência”, afirma o autor. A disponibilidade para consumir, trabalhar, compartilhar, responder, 24 horas por dia, 7 dias por semana, parece ser a palavra de ordem da contemporaneidade"
         },
-                {
+        {
         "id": 2,
         "titulo" : "Hábitos atômicos: Um método fácil e comprovado de criar bons hábitos",
         "autor" : "James Clear",
         "descricao" : "Pequenas mudanças, resultados impressionantes. Não importa quais sejam seus objetivos, Hábitos Atômicos oferece um método eficaz para você se aprimorar ― todos os dias. James Clear, revela as estratégicas práticas que o ensinarão, exatamente, como criar bons hábitos, abandonar os maus e fazer pequenas mudanças de comportamento que levam a resultados impressionantes"
         },
-                {
+        {
         "id": 3,
         "titulo" : "A ilha do conhecimento",
         "autor" : "Marcelo Gleiser",
         "descricao" : "Há respostas para todas as perguntas? Quanto realmente sabemos sobre o mundo? Existe mesmo uma verdade absoluta? O que define o ser humano é a curiosidade, é o querer saber sempre mais sobre o mundo e sobre si mesmo. Mas o que observamos do mundo é uma pequena porção do que existe."
         },
-                {
+        {
         "id": 4,
         "titulo" : "Os quatro compromissos: O livro da filosofia Tolteca",
         "autor" : "Don Miguel Ruiz",
         "descricao" : "Os quatro compromissos apresenta a possibilidade de uma nova vida, repleta de energia, felicidade genuína e amor. Don Miguel Ruiz acredita que, para conquistar essa nova vida, basta estabelecer e honrar quatro compromissos básicos: seja impecável com sua palavra, não leve nada para o lado pessoal, não tire conclusões e sempre dê o melhor de si."
         },
-                {
+        {
         "id": 5,
         "titulo" : "Desmistificando algoritmos",
         "autor" : "Thomas Cormen",
         "descricao" : "Alguma vez você já se perguntou como seu GPS pode encontrar o caminho mais rápido para o seu destino, a seleção de uma rota de aparentemente inúmeras possibilidades em poucos segundos? Como o número de conta de cartão de crédito são protegidos quando você faz uma compra pela internet? A resposta é algoritmos."
         },
-                {
+        {
         "id": 6,
         "titulo" : "Essencialismo: A disciplinada busca por menos",
         "autor" : "Greg Mckeown",
         "descricao" : "Se você se sente sobrecarregado e ao mesmo tempo subutilizado, ocupado, mas pouco produtivo, e se o seu tempo parece servir apenas aos interesses dos outros, você precisa conhecer o essencialismo. Trata-se de um método para identificar o que é vital e eliminar todo o resto, para que possamos dar a maior contribuição possível àquilo que realmente importa."
         },
-                {
+        {
         "id": 7,
         "titulo" : "Minimalismo digital: para uma vida profunda em um mundo superficial",
         "autor" : "Cal Newport",
         "descricao" : "O minimalismo é a arte de saber quanto é suficiente. O minimalismo digital aplica essa ideia ao nosso uso da tecnologia. Ele é o segredo para vivermos uma vida focada em um mundo cada vez mais caótico.Neste livro oportuno e esclarecedor, o autor do best-seller Trabalho Focado apresenta uma filosofia para o uso de tecnologia que já melhorou inúmeras vidas."
         },
-                {
+        {
         "id": 8,
         "titulo" : "Trabalho focado: como ter sucesso em um mundo distraído",
         "autor" : "Cal Newport",
         "descricao" : "O trabalho focado é a capacidade de se concentrar sem distração em uma tarefa cognitivamente exigente. É uma habilidade que lhe permite dominar rapidamente informações complicadas e produzir melhores resultados em menos tempo. O trabalho focado irá torná-lo melhor no que você faz e fornecer a sensação de realização verdadeira, como acontece no artesanato, por exemplo."
         },
-                {
+        {
         "id": 9,
         "titulo" : "A mente organizada",
         "autor" : "Daniel J. Levitin",
         "descricao" : "Enquanto notícias, textos, contas e aplicativos invadem nosso cotidiano, espera-se que tomemos rapidamente decisões cada vez maiores. Em capítulos instigantes sobre temas que vão desde a gaveta bagunçada da cozinha até cuidados com a saúde, David Levitin mostra métodos que podemos aplicar no dia a dia para adquirir uma sensação de controle sobre a maneira como organizamos nossos lares, nossos ambientes de trabalho e nossas vidas."
         },
-                {
+        {
         "id": 10,
         "titulo" : "Rápido e devagar: Duas formas de pensar",
         "autor" : "Daniel Kahneman",
         "descricao" : "Em Rápido e devagar: duas formas de pensar, Daniel Kahneman nos leva a uma viagem pela mente humana e explica as duas formas de pensar: uma é rápida, intuitiva e emocional; a outra, mais lenta, deliberativa e lógica. Kahneman expõe as capacidades extraordinárias - e também os defeitos e vícios - do pensamento rápido e revela a influência das impressões intuitivas nas nossas decisões."
         },
-                {
+        {
         "id": 11,
         "titulo" : "Aprendendo Node: Usando JavaScript no Servidor",
         "autor" : "Shelley Powers",
         "descricao" : "Aprenda a criar aplicações em rede de alto desempenho e plenamente escalonáveis nesta plataforma baseada em JavaScript. O conteúdo deste livro é bastante prático, “mão na massa”, e fará com que o programador de JavaScript, acostumado a lidar apenas com processamento no navegador, domine com maestria os fundamentos do Node no servidor."
         },
-                {
+        {
         "id": 12,
         "titulo" : "Código limpo: Habilidades práticas do Agile Software",
         "autor" : "Robert C. Martin",
         "descricao" : "Mesmo um código ruim pode funcionar. Mas se ele não for limpo, pode acabar com uma empresa de desenvolvimento. Perdem-se a cada ano horas incontáveis e recursos importantes devido a um código mal escrito. Mas não precisa ser assim"
         },
-                {
+        {
         "id": 13,
         "titulo" : "Estruturas de Dados e Algoritmos com JavaScript",
         "autor" : "Loiane Groner",
         "descricao" : "Uma estrutura de dados é uma maneira particular de organizar dados em um computador com o intuito de usar os recursos de modo eficaz. As estruturas de dados e os algoritmos são a base de todas as soluções para qualquer problema de programação. Com este livro, você aprenderá a escrever códigos complexos e eficazes usando os recursos mais recentes da ES 2017."
         },
-                {
+        {
         "id": 14,
         "titulo" : "Arquitetura limpa: O guia do artesão para estrutura e design de software",
         "autor" : "Robert C. Martin",
         "descricao" : "As regras universais de arquitetura de software aumentam dramaticamente a produtividade dos desenvolvedores ao longo da vida dos sistemas de software. Agora, aproveitando o sucesso dos seus best-sellers 'Código Limpo' e 'O Codificador Limpo', o lendário artesão de software Robert C. Martin ('Uncle Bob') vai revelar essas regras e ajudar o leitor a aplicá-las."
         },
-    {
+        {
         "id": 15,
         "titulo" : "Comunicação não-violenta",
         "autor" : "Marshall Rosenberg",
         "descricao" : "Manual prático e didático que apresenta metodologia criada pelo autor, voltada para aprimorar os relacionamentos interpessoais e diminuir a violência no mundo. Aplicável em centenas de situações que exigem clareza na comunicação: em fábricas, escolas, comunidades carentes e até em graves conflitos políticos."
-        },
- ]
+        }
+    ]
 }
